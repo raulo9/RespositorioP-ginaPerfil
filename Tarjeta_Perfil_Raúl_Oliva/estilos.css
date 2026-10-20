@@ -39,7 +39,7 @@ Le mantengo las medidas pero le doy un poco más de padding arriba para dibujar 
 
 /* El h1 en azul, pero usando el tono exacto de las etiquetas del editor de código para que sea más realista. */
 .tarjeta h1 {
-    color: #569cd6; 
+    color:white; 
     margin-top: 10px;
     margin-bottom: 5px;
     font-size: 26px;
