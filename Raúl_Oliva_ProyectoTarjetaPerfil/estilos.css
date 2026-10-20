@@ -1,14 +1,6 @@
 /* Pongo el fondo gris claro que pide el enunciado y centro todo con display:flex. 
 Le meto una fuente de código para que pegue con el rollo oscuro, pero dejo sans-serif por si acaso falla. */
-body {
-    margin: 0;
-    font-family: 'Consolas', 'Courier New', sans-serif; 
-    background-color: #cbd5e1; 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
+
 
 /* Tarjeta modo oscuro tipo Visual Studio Code. 
 Le mantengo las medidas pero le doy un poco más de padding arriba para dibujar los botones. */
