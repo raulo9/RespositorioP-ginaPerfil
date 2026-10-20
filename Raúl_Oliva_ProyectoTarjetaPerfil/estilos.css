@@ -122,7 +122,7 @@ de la fuente para que entren las palabras largas (JavaScript, Bootstrap) en una 
 .boton {
     display: block; 
     text-align: center; 
-    color: blue; 
+    color: white; 
     text-decoration: none; 
     padding: 14px;
     background-color: #0e639c; 
